@@ -17,7 +17,7 @@ In this paper, Prim’s algorithm is analyzed from a neuromorphic computing pers
 
 The goal of the paper is to explore how classical graph algorithms can be studied and implemented from a neuromorphic computing perspective.
 
-In particular, the research direction  is motivated by questions such as:
+In general, the research direction in  General-purpose neuromorphic computing  is motivated by questions such as:
 
 - Can classical algorithms be represented using spike-based computation?
 - How can graph problems, such as MST, be expressed in a neuromorphic setting?
